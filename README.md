@@ -2,7 +2,8 @@
 Caio Renato Bedulli do Carmo
 
 ## K128
-K128 is a simple program to encrypt a file using K128-CBC method.  
+K128 is a simple program to encrypt and decrypt files using K128-CBC  
+method.  
 This project has been built as an exercise in cryptography for a  
 course in introduction to cryptography in 2012 and since then I have not  
 improved it.  
@@ -20,7 +21,7 @@ version.
 
 ## Tests
 Tests have been done using files of small (less than 128 bytes), medium (some  
-kylobytes and megabytes) and large (some gigabytes) files using the following  
+kilobytes and megabytes) and large (some gigabytes) files using the following  
 machine:  
 Linux  2.6.32-5-686 #1 SMP Mon Mar 26 05:20:33 UTC 2012 i686 GNU/Linux  
 Debian Stable (Squeeze)  
